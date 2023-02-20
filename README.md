@@ -4,9 +4,11 @@ This Java microservice is designed to query the OpenAI ChatGPT API using an inpu
 ### Prerequisites
 Before you can use this microservice, you will need the following:
 
-Java 11 or higher installed on your machine
-An API key for the OpenAI ChatGPT API
-Spring Boot 2.5.0 or higher
+* Java 11 or higher installed on your machine
+* 
+* An API key for the OpenAI ChatGPT API
+* 
+* Spring Boot 2.5.0 or higher
 
 ### Installation
 To install and use this microservice, follow these steps:
